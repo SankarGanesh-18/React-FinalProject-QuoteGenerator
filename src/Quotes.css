@@ -1,0 +1,70 @@
+body {
+  padding: 0;
+  margin-top: 0;
+}
+
+
+.input-page p {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .input-page button {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #5073e7;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .input-page button:hover {
+    background-color: #0d0d01;
+  }
+  .input-page {
+    position: relative;
+  } 
+  .input-page {
+   display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+      background-color: #4158d0;
+      background-image: linear-gradient(43deg,#4158d0,#c850c0 46%,#ffcc70);
+      height: 100vh;
+      width: 100%;
+    }
+  body{
+    background-color: #4158d0;
+    background-image: linear-gradient(43deg,#4158d0,#c850c0 46%,#ffcc70);
+  }
+  
+  .quote-container {
+    text-align: center;
+   margin-top: 200px;
+  }
+  
+  .quote-text {
+    font-size: 24px;
+  }
+  
+  .generate-button {
+    margin-top: 100px;
+   
+  }
+  
+  .favourites-button-container {
+    margin-top: 20px;
+  }
+  
+  .favourites-button {
+    margin-top: 5px;
+   
+  }
+  .Typewriter__wrapper {
+    font-size: 1.9em !important;
+    color: #191919 !important;
+    font-weight: 600 !important;
+    letter-spacing: 1px !important;
+  }
+  

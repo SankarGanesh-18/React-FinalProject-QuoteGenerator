@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+
+.navbar
+{
+    background-image: url(imagex.jpg);
+    background-size: 100% 100%;
+    margin-top: -1%;   
+}
+.nav-link {
+
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  padding-bottom: 5px; 
+  color: black;
+  margin-right: 20px;
+}
+.topnav-right {
+  margin-left: 875px;
+  margin-top: 2px;
+}
+.topnav-right:hover {
+ 
+  border-bottom: 3px solid #007bff;
+}
+
+.nav-link:hover {
+  color: #06620d;
+  text-decoration: none;
+  padding-bottom: 2px;
+}
+ h1 {
+  text-shadow : 3px 3px 0px #fffefe, 5px 5px 0px #080505;
+  color : #2215d5; 
+font-size: 70px;
+ }
